@@ -1,0 +1,92 @@
+{"time":"2024-05-08T02:28:17.223+0800"}
+{"time":"2024-05-08T02:31:05.071+0800"}
+{"time":"2024-05-08T02:31:33.285+0800","error":"EOF"}
+{"time":"2024-05-08T02:31:44.181+0800","error":"Key: 'ParamSignUp.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamSignUp.Password' Error:Field validation for 'Password' failed on the 'required' tag\nKey: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"time":"2024-05-08T02:31:52.178+0800","error":"Key: 'ParamSignUp.Password' Error:Field validation for 'Password' failed on the 'required' tag\nKey: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"time":"2024-05-08T02:32:06.808+0800","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"time":"2024-05-08T02:32:24.761+0800","error":"json: cannot unmarshal number into Go struct field ParamSignUp.re_password of type string"}
+{"time":"2024-05-08T02:34:41.135+0800"}
+{"time":"2024-05-08T02:34:43.426+0800","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'eqfield' tag"}
+{"time":"2024-05-09T11:04:42.609+0800"}
+{"time":"2024-05-09T11:06:53.242+0800","error":"EOF"}
+{"time":"2024-05-09T11:07:41.078+0800","error":"EOF"}
+{"time":"2024-05-09T11:07:46.480+0800"}
+{"time":"2024-05-09T11:07:48.301+0800","error":"EOF"}
+{"time":"2024-05-09T11:08:23.552+0800","error":"Key: 'ParamSignUp.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"time":"2024-05-09T11:08:46.831+0800","error":"Key: 'ParamSignUp.Username' Error:Field validation for 'Username' failed on the 'required' tag"}
+{"time":"2024-05-09T11:08:57.872+0800","error":"Key: 'ParamSignUp.Username' Error:Field validation for 'Username' failed on the 'required' tag"}
+{"time":"2024-05-09T11:11:52.323+0800"}
+{"time":"2024-05-09T11:13:50.853+0800","error":"Key: 'ParamSignUp.Username' Error:Field validation for 'Username' failed on the 'required' tag"}
+{"time":"2024-05-09T11:14:29.604+0800","error":"Key: 'ParamSignUp.Username' Error:Field validation for 'Username' failed on the 'required' tag"}
+{"time":"2024-05-09T11:15:07.039+0800"}
+{"time":"2024-05-09T11:15:12.351+0800","error":"Key: 'ParamSignUp.Username' Error:Field validation for 'Username' failed on the 'required' tag"}
+{"time":"2024-05-09T11:15:34.601+0800"}
+{"time":"2024-05-09T11:16:36.605+0800"}
+{"time":"2024-05-09T11:17:33.597+0800"}
+{"time":"2024-05-09T11:18:39.941+0800"}
+{"time":"2024-05-09T11:19:25.352+0800"}
+{"time":"2024-05-09T11:20:12.174+0800"}
+{"time":"2024-05-09T11:21:57.792+0800"}
+{"time":"2024-05-09T11:25:09.708+0800"}
+{"time":"2024-05-09T11:25:47.108+0800"}
+{"time":"2024-05-09T11:26:30.776+0800"}
+{"time":"2024-05-09T11:30:07.413+0800"}
+{"time":"2024-05-09T11:30:34.407+0800"}
+{"time":"2024-05-09T11:34:47.015+0800"}
+{"time":"2024-05-09T11:37:37.888+0800"}
+{"time":"2024-05-09T11:38:48.895+0800"}
+{"time":"2024-05-09T11:40:57.415+0800"}
+{"time":"2024-05-09T11:41:04.716+0800"}
+{"time":"2024-05-09T12:30:20.710+0800"}
+{"time":"2024-05-09T14:20:01.080+0800"}
+{"time":"2024-05-09T14:20:46.501+0800"}
+{"time":"2024-05-09T14:20:55.272+0800"}
+{"time":"2024-05-09T14:21:32.456+0800"}
+{"time":"2024-05-09T14:21:57.359+0800"}
+{"time":"2024-05-09T14:22:32.225+0800"}
+{"time":"2024-05-09T14:23:06.936+0800"}
+{"time":"2024-05-09T14:23:58.896+0800"}
+{"time":"2024-05-09T14:24:52.454+0800"}
+{"time":"2024-05-09T14:24:56.160+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag"}
+{"time":"2024-05-09T14:25:51.112+0800","error":"invalid character '}' looking for beginning of object key string"}
+{"time":"2024-05-09T14:25:58.252+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag"}
+{"time":"2024-05-09T14:26:09.249+0800","username":"jack","error":"invalid value, should be pointer to struct or slice"}
+{"time":"2024-05-09T14:26:44.261+0800"}
+{"time":"2024-05-09T14:26:47.095+0800","username":"jack","error":"invalid value, should be pointer to struct or slice"}
+{"time":"2024-05-09T14:27:36.447+0800"}
+{"time":"2024-05-09T14:27:40.027+0800","username":"jack","error":"key is of invalid type"}
+{"time":"2024-05-09T14:30:06.401+0800"}
+{"time":"2024-05-09T14:30:07.988+0800","username":"jack","error":"key is of invalid type"}
+{"time":"2024-05-09T14:31:57.757+0800"}
+{"time":"2024-05-09T14:31:59.921+0800","username":"jack","error":"key is of invalid type"}
+{"time":"2024-05-09T14:33:10.009+0800"}
+{"time":"2024-05-09T14:36:03.909+0800","username":"jack","error":"key is of invalid type"}
+{"time":"2024-05-09T14:36:59.626+0800"}
+{"time":"2024-05-09T14:37:24.669+0800","username":"jack","error":"record not found"}
+{"time":"2024-05-09T14:45:13.738+0800"}
+{"time":"2024-05-09T14:45:16.168+0800","username":"jack","error":"record not found"}
+{"time":"2024-05-09T14:45:21.370+0800","username":"jack2","error":"record not found"}
+{"time":"2024-05-09T14:45:36.439+0800","username":"jack","error":"key is of invalid type"}
+{"time":"2024-05-09T14:46:01.591+0800","username":"jack","error":"key is of invalid type"}
+{"time":"2024-05-09T14:48:09.256+0800"}
+{"time":"2024-05-09T14:50:03.803+0800","username":"jack","error":"key is of invalid type"}
+{"time":"2024-05-09T14:50:11.514+0800"}
+{"time":"2024-05-09T15:04:02.391+0800"}
+{"time":"2024-05-09T15:04:15.029+0800","error":"Key: 'ParamSignUp.ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag\nKey: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'eqfield' tag"}
+{"time":"2024-05-09T16:40:03.706+0800"}
+{"time":"2024-05-09T16:41:45.329+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T16:53:08.790+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T16:53:36.132+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T16:59:12.704+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T17:00:09.416+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T17:04:05.225+0800"}
+{"time":"2024-05-09T17:04:08.141+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T17:04:29.650+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T17:05:11.412+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T17:06:46.741+0800","error":"Key: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T17:06:50.425+0800","username":"Aaa","error":"record not found"}
+{"time":"2024-05-09T17:06:57.504+0800","username":"Jack","error":"密码错误"}
+{"time":"2024-05-09T17:18:11.768+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T17:18:15.023+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T17:19:05.192+0800","error":"Key: 'ParamLogin.Username' Error:Field validation for 'Username' failed on the 'required' tag\nKey: 'ParamLogin.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+{"time":"2024-05-09T17:21:02.583+0800","username":"jack2","error":"record not found"}
