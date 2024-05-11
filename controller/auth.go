@@ -33,9 +33,6 @@ func SignUpHandler(c *gin.Context) {
 		} else {
 			ResponseWithFail(c, CodeServerBusy)
 		}
-		c.JSON(http.StatusInternalServerError, gin.H{
-			"msg": err.Error(),
-		})
 		return
 	}
 	c.JSON(http.StatusOK, gin.H{

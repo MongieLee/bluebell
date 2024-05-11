@@ -8,7 +8,7 @@ CREATE TABLE `user`
     `email`        varchar(64) COLLATE utf8mb4_general_ci,
     `gender`       tinyint(4)                             NOT NULL DEFAULT '0',
     `created_at` datetime                               NULL     DEFAULT CURRENT_TIMESTAMP,
-    `update_at`  datetime                               NULL     DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    `updated_at`  datetime                               NULL     DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
     `deleted_at` datetime                               NULL,
     PRIMARY KEY (`id`),
     UNIQUE KEY `idx_username` (`username`) USING BTREE,
